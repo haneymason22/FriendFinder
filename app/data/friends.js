@@ -1,7 +1,7 @@
 var friends = [
     {
         name: "Brian Cogman",
-        photo: "",
+        photo: "https://avatars0.githubusercontent.com/u/21323178?s=460&v=4",
         score: [
             "5",
             "3",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
         name: "James Rolffe",
-        photo: "",
+        photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
         score: [
             "3",
             "2",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
         name: "Lowell Granger",
-        photo: "",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
         score: [
             "1",
             "3",
